@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+body{
+    margin-top: 0px;
+    margin: 0px ;
+    text-align: center;
+    font-weight: bold;
+     
+}
+.head{
+    margin-top: 0px;
+    padding:50px;
+}
+.c1{
+    display: inline-block;
+    position: absolute;
+    top: 95px;
+    right: 350px;
+   
+}
+.c2{
+    display: inline-block;
+    position: absolute;
+    top: 95px;
+    left: 350px;
+} 
+.contact{
+
+    background-color: #66BFBF;
+    height:300px;
+}
+.details{
+    margin-top: 100px;
+}
+
+.gm{
+    width: 5%;
+}
+.email{
+    font-size: 22px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Chelsea Market', cursive;
+    font-size: 55px ;
+    color: #2b2e4a;
+    font-style: italic;
+}
+h2{
+    text-align: center;
+    font-family: 'Chelsea Market', cursive;
+    color: #004a7c;
+    font-weight: normal;
+    font-size:30px;
+
+}
+.bottom-container{
+    text-align: center;
+    padding: 20px 0px 30px;
+    background-color:#66BFBF ;
+}
+.cr{
+    color: white;
+    font-size: 1 rem;
+    padding-top:30px;
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: #888888;
+    height: 0px;
+    border-width: 5px;
+    width: 4%;
+    margin: 100px auto; 
+}
+.submit{
+    margin-bottom: 20px;
+}

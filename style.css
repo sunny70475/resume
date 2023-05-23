@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+body{
+    
+    margin: 0px ;
+    text-align: center;
+    font-weight: bold;
+     
+}
+
+.navbar-brand{
+    font-family: 'Chelsea Market', cursive;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0px 18px;
+}
+
+.nav-link{
+    
+    font-family: 'Chelsea Market', cursive;
+    font-size: 1.2rem;
+    color:#004a7c;
+    
+}
+
+
+
+.top-container{
+    background-color: #22d7f7;;
+}
+
+
+
+.middle-container{
+    background-color: white;
+    margin: 70px 0 70px 0;
+    
+
+}
+
+.bottom-container{
+    text-align: center;
+    padding: 20px 0px 30px;
+    background-color:#66BFBF ;
+   
+}
+a{
+    color:#004a7c;
+    font-family: 'Chelsea Market', cursive;
+    text-decoration: none;
+    margin: 10px 10px;
+}
+
+a:hover{
+    color:#EAF6F6;
+}
+
+
+hr{
+    border-style: dotted none none;
+    border-color: #888888;
+    height: 0px;
+    border-width: 5px;
+    width: 4%;
+    margin: 100px auto; 
+}
+    
+h1{
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 55px ;
+    color: #2b2e4a;
+    font-style: italic;
+    line-height: 2;
+    font-weight: bold;
+
+}
+h2{
+    text-align: center;
+    font-family: 'Chelsea Market', cursive;
+    color: #004a7c;
+    font-weight: normal;
+    font-size:30px;
+
+}
+h3{
+    
+    font-family: 'Chelsea Market', cursive;
+    color: #112d4e;
+    font-size: 20px;    
+
+}
+.hp1{
+    font-family: 'Chelsea Market', cursive;
+    color:#112d4e;
+    font-size: 22px;
+}
+
+
+.c1{
+    position: relative;
+    right: 250px;
+    top: 50px;
+    
+}
+.c2{
+    display: inline-block;
+    position: absolute;
+    top: 300px;
+    right:400px;
+   
+}
+.c3{
+    display: inline-block;
+    position: absolute;
+    top: 300px;
+    left:400px;
+   
+    
+}
+.proimg{
+    width: 10%;
+    height: auto;
+}
+.intro{
+    width:30%;
+    margin: auto;
+    line-height: 2;
+}
+
+
+.skill-row{
+    margin: 50px auto 50px auto;
+    width:50%;
+    text-align: left;
+    line-height: 2;
+}
+
+.skimg{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+
+
+.cr{
+    color: white;
+    font-size: 1 rem;
+    padding-top:30px;
+}
+
+.disc{
+    width:30%;
+    margin: 30px auto 40px;
+    line-height: 2;
+
+
+}
+
+.btn {
+	box-shadow: 0px 1px 11px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:11px;
+	display:inline-block;
+	cursor: pointer;;
+	color:#ffffff;
+    font-family: 'Chelsea Market', cursive;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 25px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
