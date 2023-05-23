@@ -1,2 +1,2 @@
 # resume
-reume to deploy
+Resume to deploy
